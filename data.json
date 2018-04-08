@@ -1,0 +1,47 @@
+{
+  "basics":{
+    "name":"niveditha",
+    "photo":"images.png",
+    "email":"uppaluriniveditha@gmail.com",
+    "mobileno":"9858687910",
+    "address":"SVIT college"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech",
+      "institute":"SVIT,Anantapur",
+      "data":["2016-20","75%"]
+    },
+    {
+      "degree":"Intermediate",
+      "institute":"nalanda",
+      "data":["204-16","82%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"St.joseph High School",
+      "data":["2016-20","86%"]
+    }
+  ],
+  "skills":[
+    {
+      "sname":"Languages",
+      "sdata":["C","C++","Java"]
+    },
+    {
+      "sname":"DataBases",
+      "sdata":["Oracle","Mysqul","MySqLite"]
+    },
+    {
+      "sname":"Web Technologies",
+      "sdata":["HTML","XML","PHP","JavaScript"]
+    },
+    {
+      "sname":"Operating Systems",
+      "sdata":["Windows","Linux","Unix"]
+    }
+  ]
+  }
